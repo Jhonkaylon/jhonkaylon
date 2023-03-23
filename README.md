@@ -1,3 +1,4 @@
 <div>
-<img src="https://user-images.githubusercontent.com/128629667/227300003-325e6078-8adf-4807-a8e9-94bc4e64854a.gif%22%3E">
+<img src="https://64.media.tumblr.com/55f57e7f662f882d127784a453d107ca/tumblr_msghlxjj0p1qbu2bao1_400.gif" width="350px" align="right"/>
+</div>
 </div>
