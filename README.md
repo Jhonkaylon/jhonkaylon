@@ -1,3 +1,10 @@
 <div>
-< img src = "  " alt = "Garota de jaqueta" largura = "500" altura = "600" >          
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
+
+
+
+
+
 </div>
