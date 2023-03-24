@@ -15,7 +15,7 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
 
 Além disso, eu sempre fui muito curioso e criativo, e a programação me permitia expressar essas características de maneira muito única. Eu adorava a sensação de criar algo a partir do zero, de dar vida a uma ideia que existia apenas na minha cabeça, e ver que isso poderia ter um impacto real na vida das pessoas.
 
-A programação também me proporcionou um senso de desafio constante. A cada projeto que eu desenvolvia, eu me deparava com novos problemas e obstáculos a serem superados, o que me impulsionava a aprender mais e a aprimorar minhas habilidades,ainda sou novato na area mais procuro oportunidade para me desenvolver ainda mais na area que sou tao apaixonado<3
+A programação também me proporcionou um senso de desafio constante. A cada projeto que eu desenvolvia, eu me deparava com novos problemas e obstáculos a serem superados, o que me impulsionava a aprender mais e a aprimorar minhas habilidades,ainda sou novato mais procuro oportunidade para me desenvolver na  área que sou tao apaixonado<3
 
 
 
