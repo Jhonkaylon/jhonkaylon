@@ -25,5 +25,5 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
 
 <h2>⚙️ Estatísticas:</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jhon_color=141414&color=ffffff&line=7a25a7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
