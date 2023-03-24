@@ -24,7 +24,7 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
   </hr>
 
 <h2>⚙️ Estatísticas:</h2>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) 
+![](https://komarev.com/ghpvc/?username=jhon-kaylon-username&style=flat-square)
 
 
  
