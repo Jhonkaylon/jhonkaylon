@@ -30,8 +30,7 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
  <a href="https://github.com/Jhonkaylon" target="_blank" alt="Github">
     <img src="https://img.shields.io/badge/-Github-242424?style=for-the-badge&logo=Github&logoColor=white">
 </a>
-
-<a href="https://www.linkedin.com/in/emily-leme/" target="_blank" alt="Linkedin">
+<a href="https://www.linkedin.com/in/jhon-kaylon-martins-572695259/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
