@@ -27,7 +27,7 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
 <img src="https://profile-counter.glitch.me/[jhonkaylon]/count.svg" />
 <hr>
 <p align="left">
- <a href="" target="_blank" alt="Github">
+ <a href="https://github.com/Jhonkaylon" target="_blank" alt="Github">
     <img src="https://img.shields.io/badge/-Github-242424?style=for-the-badge&logo=Github&logoColor=white">
 </a>
 
