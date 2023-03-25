@@ -26,7 +26,26 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
 <h2>🧑 Visitantes</h2>
 <img src="https://profile-counter.glitch.me/[jhonkaylon]/count.svg" />
 <hr>
+<p align="left">
+ <a href="https://github.com/catmiih" target="_blank" alt="Github">
+    <img src="https://img.shields.io/badge/-Github-242424?style=for-the-badge&logo=Github&logoColor=white">
+</a>
 
+<a href="https://www.linkedin.com/in/emily-leme/" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:emilyleme.dev@gmail.com" target="_blank" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+  
+<a href="https://wa.me/5511962891250" target="_blank" alt="Whatsapp">
+  <img src="https://img.shields.io/badge/-Whatsapp-3BB332?style=for-the-badge&logo=Whatsapp&logoColor=white" />
+</a>
+  
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/mily%238861-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a> 
+</p>  
 
 
  
