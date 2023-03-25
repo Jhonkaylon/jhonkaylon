@@ -23,8 +23,9 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
   </div>
   </hr>
 
-<h2>⚙️ Estatísticas:</h2>
+<h2>🧑 Visitantes</h2>
 <img src="https://profile-counter.glitch.me/[jhonkaylon]/count.svg" />
+<hr>
 
 
 
