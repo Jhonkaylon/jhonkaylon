@@ -38,7 +38,7 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
   <img src="https://img.shields.io/badge/-Gmail-cc3838?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
   
-<a href="https://wa.me/5511962891250" target="_blank" alt="Whatsapp">
+<a href="https://wa.me/5527999598361" target="_blank" alt="Whatsapp">
   <img src="https://img.shields.io/badge/-Whatsapp-3BB332?style=for-the-badge&logo=Whatsapp&logoColor=white" />
 </a>
   
