@@ -45,4 +45,3 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/jhon kaylon%236580-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a> 
 </p>  
-![snake gif](https://github.com/jhonkaylon/jhonkaylon/blob/output/github-contribution-grid-snake.svg)
