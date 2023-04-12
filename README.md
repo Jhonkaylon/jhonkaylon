@@ -26,6 +26,7 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
 <h2>🧑 Visitantes</h2>
 <img src="https://profile-counter.glitch.me/[jhonkaylon]/count.svg" />
 <hr>
+<h1>caso queira bater um papo</h1>
 <p align="left">
  <a href="https://github.com/Jhonkaylon" target="_blank" alt="Github">
     <img src="https://img.shields.io/badge/-Github-242424?style=for-the-badge&logo=Github&logoColor=white">
@@ -41,7 +42,6 @@ hello guys! meu nome e jhon kaylon atualmente estou cursando analise e desenvolv
 <a href="https://wa.me/5527999598361" target="_blank" alt="Whatsapp">
   <img src="https://img.shields.io/badge/-Whatsapp-3BB332?style=for-the-badge&logo=Whatsapp&logoColor=white" />
 </a>
-  <h1>caso queira bater um papo</h1>
   
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/jhon kaylon%236580-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord"></a> 
